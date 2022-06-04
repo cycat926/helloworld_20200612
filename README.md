@@ -179,6 +179,8 @@ jobs [옵션] [job ID]
 ---
 
 ### **kill**
+![Screenshot_20220605-032909_Chrome](https://user-images.githubusercontent.com/106860798/172020963-2a86a08e-7d43-49dc-b1cd-12cb86fce99e.jpg)
+
 #### 정의
 >프로세스에 특정한 signal을 보내는 명령어로 일반적으로 종료되지 않는 프로세스를 종료 시킬 때 많이 사용한다.
 #### 사용 구문
