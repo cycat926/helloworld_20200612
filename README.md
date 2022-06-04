@@ -7,6 +7,7 @@
 2) **vim 에디터에서 매크로 사용법**
 
 ---
+
 ## 리눅스 명령어
 ### **top**
 ![image](https://user-images.githubusercontent.com/106860798/172018319-693b9b02-1d3d-4f49-a64e-6d7c70d76c28.png)
